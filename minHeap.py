@@ -1,13 +1,13 @@
 from heapq import heappush, heappop, heappushpop, heapify
 
-    '''
+'''
     MinHeap:
         - construct with size only or with size and array
         - MinHeap(size) or MinHeap(size, array)
         - Insert elements with insert(elem)
         - Peek min element with peek()
         - Remove and return minimal element with getMin()
-    '''
+'''
 
 class MinHeap(object):
     '''
