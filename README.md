@@ -1,4 +1,4 @@
-# Repository for learning algorithms and data structures in pyhton
+# Algorithms and data structures in pyhton
 
 ### Data structures
 * Implementations of data structures in pyhton
