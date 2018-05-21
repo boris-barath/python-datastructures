@@ -1,4 +1,4 @@
-# Algorithms and data structures in pyhton
+# Algorithms and data structures in Python
 
 ### Data structures
 * Implementations of data structures in pyhton
@@ -6,5 +6,3 @@
 ### Algorithms 
 * Implementations of various algorithms on data structures
 
-### Hard
-* Implementations of hard questions
